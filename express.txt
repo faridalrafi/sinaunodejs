@@ -1,0 +1,11 @@
+1. Install node js https://nodejs.org/en/download/ (Yang LTS)
+2. Install Express 
+
+$ npm install express -g
+ npm install express-generator -g
+$ express demo
+$ cd demo (masuk ke folder / direktorinya)
+
+Baru:
+$ npm install
+$ npm start
